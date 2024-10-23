@@ -1,6 +1,5 @@
 # TypeScript Learning Repository
 
-## Why TypeScript? History and Significance
 
 ### History of TypeScript
 TypeScript was developed by Microsoft and first released in October 2012. It was created to address some of the shortcomings of JavaScript, particularly as applications grew larger and more complex. The development team recognized that while JavaScript is powerful and flexible, its dynamic nature could lead to issues such as runtime errors that are difficult to debug.
